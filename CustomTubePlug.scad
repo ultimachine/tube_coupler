@@ -4,7 +4,12 @@ baseL = 7;
 indentW = 5.9;
 riserW = 3.9;
 totalH = 13.5;
-totalL = 15;
+// 4 position
+//totalL = 15;
+// 3 position
+//totalL = 15+1.27;
+// 2 position
+totalL = 15+2.54;
 holeD = 3.5;
 chamferH = 2;
 chamferD = 6;
